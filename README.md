@@ -21,6 +21,7 @@ List operations and loops
 Conditional logic
 Automation concepts in cybersecurity
 Screenshot
-![Code Screenshot](screenshots/screenshot1
-)
+![Code Screenshot](screenshots/<img width="554" height="793" alt="screenshot1" src="https://github.com/user-attachments/assets/299fe0f2-0d62-49c3-90bb-da8b02f56a54" />)
+
+
 
